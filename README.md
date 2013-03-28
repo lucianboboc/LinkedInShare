@@ -12,4 +12,4 @@ What you need to do before you can use it:
 4. Replace the kLinkedInRedirectURI NSString from the project with the DefaultOAuth 1.0 Accept Redirect URL: from your registered app on LinkedIn.
 5. Use the documentation httphttp://developer.linkedin.com/rest if you want to post other data instead of text (title, url).
  
-@lucianboboc on Twitter.
+https://twitter.com/lucianboboc
